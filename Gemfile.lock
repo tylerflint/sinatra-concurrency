@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     kgio (2.7.4)
-    rack (1.4.1)
+    rack (1.6.12)
     rack-protection (1.2.0)
       rack
     rainbows (4.3.1)
